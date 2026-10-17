@@ -14,13 +14,8 @@ When I code, I rely on
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-My most recent articles
-<!-- BLOG-POST-LIST:START -->
-Article title one
-Article title two
-Article title three
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea?
 
+why not treat me to a cup of coffee/tea?
 <a href="https://www.buymeacoffee.com/srunrotha" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy me a coffee" height="45">
 </a>
