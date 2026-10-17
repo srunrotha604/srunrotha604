@@ -20,6 +20,7 @@ When I code, I rely on
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Backblaze](https://img.shields.io/badge/Backblaze_B2-E21E29?style=flat-square&logo=backblaze&logoColor=white)
 ![ABA PayWay](https://img.shields.io/badge/ABA_PayWay-005D7F?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Contabo](https://img.shields.io/badge/Contabo-1A4E8C?style=flat-square)
 
 why not treat me to a cup of coffee/tea?
