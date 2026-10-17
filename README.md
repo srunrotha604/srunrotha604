@@ -1,5 +1,5 @@
-👋 Hi there, I'm YOUR_NAME!
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=e94560&style=flat-square&label=Profile+views)
+👋 Hi there, I'm Rotha!
+![Profile views](https://komarev.com/ghpvc/?username=srunrotha604&color=e94560&style=flat-square&label=Profile+views)
 When I code, I rely on
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -27,9 +27,9 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 </a>
 My GitHub contributions summary
 <p>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=srunrotha604&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srunrotha604&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srunrotha604&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165" />
 </p>
