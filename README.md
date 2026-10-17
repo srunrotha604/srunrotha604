@@ -22,7 +22,7 @@ Article title two
 Article title three
 <!-- BLOG-POST-LIST:END -->
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😊
-<a href="https://www.buymeacoffee.com/YOUR_BMC_USERNAME" target="_blank">
+<a href="https://www.buymeacoffee.com/srunrotha" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy me a coffee" height="45">
 </a>
 My GitHub contributions summary
