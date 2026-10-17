@@ -14,7 +14,12 @@ When I code, I rely on
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Backblaze](https://img.shields.io/badge/Backblaze_B2-E21E29?style=flat-square&logo=backblaze&logoColor=white)
+![ABA PayWay](https://img.shields.io/badge/ABA_PayWay-005D7F?style=flat-square)
 why not treat me to a cup of coffee/tea?
 
 <a href="https://www.buymeacoffee.com/srunrotha" target="_blank">
