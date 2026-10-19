@@ -23,11 +23,6 @@ When I code, I rely on
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Contabo](https://img.shields.io/badge/Contabo-1A4E8C?style=flat-square)
 
-why not treat me to a cup of coffee/tea?
-
-<a href="https://www.buymeacoffee.com/srunrotha" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy me a coffee" height="45">
-</a>
 
 My GitHub contributions summary
 <p>
